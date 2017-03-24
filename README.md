@@ -52,5 +52,4 @@ A collection of prototypes created for fun and learning.
 - [Godot](https://godotengine.org/ "Godot")
 
 ## Previous Examples
-
-None yet. But here will be a list of repositories, and links to installers and such.
+- [Plundering Pirates of Pim](https://github.com/froomzy/game-prototype-one)
